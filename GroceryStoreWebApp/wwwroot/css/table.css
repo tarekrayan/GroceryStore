@@ -1,0 +1,26 @@
+﻿.main-div {
+    padding: 20px;
+}
+
+.button-new {
+    margin-bottom: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: min-content min-content min-content;
+}
+
+    .grid-container .header {
+        background-color: rgb(2, 44, 87);
+        color: rgb(255,255,255);
+    }
+
+.grid-item {
+    background-color: rgb(237, 246, 255);
+    border: 1px solid rgb(2, 44, 87);
+    padding: 7px 15px 7px 15px;
+    font-size: 1rem;
+    text-align: center;
+}
+

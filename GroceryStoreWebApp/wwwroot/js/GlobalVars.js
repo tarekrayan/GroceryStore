@@ -1,0 +1,1 @@
+﻿const WebApiBaseUrl = "https://localhost:44322";
